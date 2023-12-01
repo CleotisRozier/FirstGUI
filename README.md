@@ -1,5 +1,4 @@
-# FirstGUI
-##My First GUI project in Python
+# My First GUI project in Python
 
 Thanks for checking out my repsository!
 This is my first post to this github account.
